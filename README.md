@@ -1,8 +1,14 @@
-# Magisk Installer
+# AllCorn-Module
 
-**Update `README.md` if you want to submit your module to the online repo!**
+repacked to magisk module by kristoforus
+ROOT ONLY with MAGISK!
 
+# Installation
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+1.Open your magisk
+2.install the module
+3.Restart your devices
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+# Pull-Request
+
+I hope you can open a pull request, because here it is open for pull requests
