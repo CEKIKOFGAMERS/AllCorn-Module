@@ -6,8 +6,11 @@ ROOT ONLY with MAGISK!
 # Installation
 
 1.Open your magisk
+
 2.install the module
+
 3.Restart your devices
+
 
 # Pull-Request
 
